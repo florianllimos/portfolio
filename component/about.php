@@ -1,6 +1,6 @@
 <div id="about" role="region" aria-labelledby="title-about">
-  <h2 class="title-section" id="title-about">À propos de moi</h2>
   <div class="container-about">
+    <!-- Bloc 1: Présentation -->
     <div class="container-about-bloc" tabindex="0" role="article" aria-labelledby="about-presentation">
       <div class="container-about-bloc-number section" aria-hidden="true">
         <span class="container-about-bloc-number-span">1</span>
@@ -11,6 +11,7 @@
       </p>
     </div>
 
+    <!-- Bloc 2: Diplôme -->
     <div class="container-about-bloc" tabindex="0" role="article" aria-labelledby="about-diplome">
       <div class="container-about-bloc-number section" aria-hidden="true">
         <span class="container-about-bloc-number-span">2</span>
@@ -21,6 +22,7 @@
       </p>
     </div>
 
+    <!-- Bloc 3: Passion -->
     <div class="container-about-bloc" tabindex="0" role="article" aria-labelledby="about-passion">
       <div class="container-about-bloc-number section" aria-hidden="true">
         <span class="container-about-bloc-number-span">3</span>
@@ -31,6 +33,7 @@
       </p>
     </div>
 
+    <!-- Bloc 4: Expérience professionnelle -->
     <div class="container-about-bloc" tabindex="0" role="article" aria-labelledby="about-recherche">
       <div class="container-about-bloc-number section" aria-hidden="true">
         <span class="container-about-bloc-number-span">4</span>
@@ -41,6 +44,7 @@
       </p>
     </div>
 
+    <!-- Bloc 5: Opportunités -->
     <div class="container-about-bloc container-about-bloc-last" tabindex="0" role="article" aria-labelledby="about-idee">
       <div class="container-about-bloc-number section" aria-hidden="true">
         <span class="container-about-bloc-number-span">5</span>

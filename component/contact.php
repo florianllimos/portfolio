@@ -1,5 +1,4 @@
 <div id="contact">
-  <h2 class="title-section">Contact</h2>
   <div class="container-contact">
     <div class="container-cv" id="cv">
       <div class="contact-container-cv">

@@ -5,11 +5,13 @@
     </p>
   </div>
   <div class="container-home-hello">
-    <p id="home-hello-text"><span class="orange">echo</span> <span class="red">"Bonjour & bienvenue !"</span>;</p>
+    <p><span class="orange">echo</span> <span class="red" id="home-hello-text">"Bonjour & bienvenue !"</span>;</p>
   </div>
   <div class="container-home-picture">
-    <img src="media/home/florian.png" alt="Photo de Florian Llimos" title="Photo de moi-même" id="home-picture">
-  </div>
+    <a href="https://www.raphaelkann.com/" target="_blank">  
+      <img src="media/home/florian.jpg" alt="Photo de Florian Llimos" title="Photo de moi-même réalisé par Raphael Kann" id="home-picture">
+    </a>
+      </div>
   <div class="container-home-download">
     <button id="download" class="download-dark" title="Télécharger mon CV" tabindex="0" aria-label="Télécharger mon CV">Télécharger CV</button>
   </div>

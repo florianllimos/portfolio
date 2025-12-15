@@ -14,19 +14,19 @@
     <div class="menu" aria-hidden="true">
       <ul class="list-nav-top" role="menu" id="list-nav-top">
         <li class="li-nav-top-dark" id="to-home" role="menuitem">
-          <a href="#" title="Accueil">Accueil</a>
+          <a href="#" title="Accueil" id="header-home">Accueil</a>
         </li>
         <li class="li-nav-top-dark" id="to-about" role="menuitem">
-          <a href="#about" title="À propos de moi">À propos de moi</a>
+          <a href="#about" title="À propos de moi" id="header-about">À propos de moi</a>
         </li>
         <li class="li-nav-top-dark" id="to-skills" role="menuitem">
-          <a href="#skills" title="Compétences">Compétences</a>
+          <a href="#skills" title="Compétences" id="header-competences">Compétences</a>
         </li>
         <li class="li-nav-top-dark" id="to-projects" role="menuitem">
-          <a href="#portfolio" title="Portfolio">Portfolio</a>
+          <a href="#portfolio" title="Portfolio" id="header-portfolio">Portfolio</a>
         </li>
         <li class="li-nav-top-dark" id="to-contact" role="menuitem">
-          <a href="#contact" title="Contact">Contact</a>
+          <a href="#contact" title="Contact" id="header-contact">Contact</a>
         </li>
       </ul>
     </div>

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3964c8a1.css",
+    "main.js": "/static/js/main.39a11eca.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/FrameUse.png": "/static/media/FrameUse.022659b4d10126814998.png",
+    "static/media/CSSChallenge.png": "/static/media/CSSChallenge.64dc0b5869ebb308a4c0.png",
+    "static/media/CCPhotographie.png": "/static/media/CCPhotographie.8f1cc538a81a23b043ef.png",
+    "static/media/CProt.png": "/static/media/CProt.a32825414398e1a0933b.png",
+    "static/media/VPGarage.png": "/static/media/VPGarage.da72fc21cab6837fe472.png",
+    "static/media/Password.png": "/static/media/Password.3c602fa003caa2a0247a.png",
+    "static/media/ClickRush.png": "/static/media/ClickRush.e4b8d409c3fb7c5e9a6f.png",
+    "static/media/CV.png": "/static/media/CV.133938ac55f8e2610976.png",
+    "static/media/Fakeback.png": "/static/media/Fakeback.f6378adf1bfd90972c11.png",
+    "static/media/papers.co-vd54-abstract-black-geometric-line-pattern-25-wallpaper.jpg": "/static/media/papers.co-vd54-abstract-black-geometric-line-pattern-25-wallpaper.c75379d151f96573c528.jpg",
+    "static/media/DiceGame.png": "/static/media/DiceGame.38fcf5307f46add303c8.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.dcd022f4f4fd8a60e48f.png",
+    "static/media/Calculator.png": "/static/media/Calculator.4e88d52a7fa7da7af8ae.png",
+    "static/media/blender.png": "/static/media/blender.e749f9b222bc9e9720a1.png",
+    "static/media/patron.png": "/static/media/patron.a08dc31bdc2c27f7591c.png",
+    "static/media/Morpion.png": "/static/media/Morpion.b14b6f552c443a2d5c73.png",
+    "static/media/recherche.png": "/static/media/recherche.5e652497e2d19f170d4c.png",
+    "static/media/QRCode.png": "/static/media/QRCode.ffcbe691b57c7ba617c6.png",
+    "static/media/diplome.png": "/static/media/diplome.2879f4edc45249aced4e.png",
+    "static/media/passion.png": "/static/media/passion.4da10e70b10ab26f2870.png",
+    "static/media/projet.png": "/static/media/projet.4a7788c3b46a07f7ccb3.png",
+    "static/media/linkedin.png": "/static/media/linkedin.d095727eafabcefff8a1.png",
+    "static/media/wordpress.png": "/static/media/wordpress.6a0ce9b275d137f8c5bf.png",
+    "static/media/react.png": "/static/media/react.84432f72c48dff1e3b1d.png",
+    "index.html": "/index.html",
+    "main.3964c8a1.css.map": "/static/css/main.3964c8a1.css.map",
+    "main.39a11eca.js.map": "/static/js/main.39a11eca.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3964c8a1.css",
+    "static/js/main.39a11eca.js"
+  ]
+}
